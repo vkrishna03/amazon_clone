@@ -202,3 +202,14 @@ span{
     color: #007185;
 }
 
+/** Footer **/
+
+.foot-panel1{
+    background-color: #37415a;
+    color: #fff;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size:0.85 rem;
+}
